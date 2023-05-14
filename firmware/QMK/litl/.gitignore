@@ -1,2 +1,3 @@
 keymaps/*
 !keymaps/wpmhud
+qmk_firmware.code-workspace
